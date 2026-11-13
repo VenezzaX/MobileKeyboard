@@ -1922,7 +1922,7 @@ G2L["13c"]["TextSize"] = 14
 G2L["13c"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
 G2L["13c"]["Size"] = UDim2.new(0, 121, 0, 22)
 G2L["13c"]["Active"] = true
-G2L["13c"]["Text"] = [[Delta Mobile - Keyboard Cracked By ATA]]
+G2L["13c"]["Text"] = [[Delta Mobile - Keyboard]]
 G2L["13c"]["Name"] = [[Title]]
 G2L["13c"]["BackgroundTransparency"] = 1
 G2L["13c"]["Position"] = UDim2.new(0, 9, 0, 2)
@@ -2440,7 +2440,7 @@ local function C_138()
 		if IsSelecting.Value then
 			buttons.Title.Text = "Delta Mobile - Keyboard (Selecting Key)"
 		else
-			buttons.Title.Text = "Delta Mobile - Keyboard Cracked By ATA"
+			buttons.Title.Text = "Delta Mobile - Keyboard"
 		end
 	end)
 
